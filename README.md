@@ -1,6 +1,5 @@
 # Titanic Survival Classification using Decision Trees
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
 
